@@ -1,1 +1,2 @@
-# a simple program which validates user login credentials
+    a simple program exploring validating user login credentials
+    future update to codebase: arranging code into appropriate functions
